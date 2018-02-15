@@ -1,6 +1,9 @@
 body {
-  text-align: center;
   font-family: Helvetica;
+}
+
+.top_section, .midsection, .bottom_section {
+  text-align: center;
 }
 
 .top_section, .NY {
@@ -26,6 +29,10 @@ h2 {
   font-weight: bold;
 }
 
+h3 {
+  font-weight: bold;
+}
+
 .processes{
   font-size: 23px;
   font-weight: bold;
@@ -39,5 +46,9 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
 
+.footer {
+  font-size: 11px;
+  background-color: dimgray
 }
