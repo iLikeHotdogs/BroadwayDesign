@@ -16,11 +16,11 @@ h1 {
 
 }
 
-h1, .NY, .footer, .top_link {
+h1, .NY, .footer, .nav_link {
   color: white;
 }
 
-.top_link {
+.nav_link {
   font-size: 18px;
 }
 
